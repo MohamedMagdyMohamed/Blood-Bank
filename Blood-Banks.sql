@@ -1464,7 +1464,7 @@ INSERT INTO `Members` (`id`, `username`, `password`, `fname`, `lname`, `email`, 
 (153, 'Farouk', 'e10adc3949ba59abbe56e057f20f883e', 'Mohamed', 'Farouk', 'mohamedfarouk1994@gmail.com', 1281259262, NULL, 0, 1),
 (154, 'Shady', 'e10adc3949ba59abbe56e057f20f883e', 'Shady', 'Naser', 'DeadCode8@gmail.com', 1011122821, NULL, 0, 1),
 (155, 'Aya', 'e10adc3949ba59abbe56e057f20f883e', 'Aya', 'Ashraf', 'aya1ashraf37977@gmail.com', 1001345261, NULL, 0, 1),
-(156, 'admin', 'e10adc3949ba59abbe56e057f20f883e', 'Amr', 'lastname2', 'admin2@gmail.com', 123, 51, 1, 1);
+(156, 'Admin', 'e10adc3949ba59abbe56e057f20f883e', 'Amr', 'lastname2', 'admin2@gmail.com', 123, 51, 1, 1);
 
 --
 -- Indexes for dumped tables
